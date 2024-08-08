@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## dvir amitay  github - https://github.com/dviramitay/dviramitay/blob/main/Project%20-%20part%202.ipynb
-# 
+# ## dvir amitay  
+
 
 # In[127]:
 
